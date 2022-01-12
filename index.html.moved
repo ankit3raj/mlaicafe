@@ -10,7 +10,7 @@
    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
    <!-- Site Title- -->
-   <title>MLAIcafe  - Go AI </title>
+   <title>ZinEdu Digital - Go Digital </title>
 
    <!-- CSS
    ==================================================== -->
@@ -66,11 +66,11 @@
             <div class="col-md-12">
                <div class="offcanvas-wrapper">
                   <div class="offcanvas-inner">
-                     <!--<a href="index.html" class="logo">-->
-                     <!--   <img src="images/logo/logo.png" alt="">-->
-                     <!--</a>-->
-                     <p>Start working with an company that can provide everything you need to automate,innovate and scale!
-                        Connect with customers, and increase sales</p>
+                     <a href="index.html" class="logo">
+                        <img src="images/logo/logo.png" alt="">
+                     </a>
+                     <p>Start working with an company that can provide everything you need to generate awareness, drive traffic,
+                        connect with customers, and increase sales</p>
                      <div class="row">
                         <div class="col-md-12">
                            <div class="contact-us">
@@ -79,8 +79,8 @@
                               </div>
                               <!-- End contact Icon -->
                               <div class="contact-info">
-                                 <h3>Noida, UP, India</h3>
-                                 <p>H-189, Lohia Road, H Block, Sec-63</p>
+                                 <h3>Noida, Up, India</h3>
+                                 <p>H-187, Lohia Road, H Block, Sec-63</p>
                               </div>
                               <!-- End Contact Info -->
                            </div>
@@ -94,7 +94,7 @@
                               </div>
                               <!-- End contact Icon -->
                               <div class="contact-info">
-                                 <h3>+91-7669992203</h3>
+                                 <h3>+91-9108674519</h3>
                                  <p>Give us a call</p>
                               </div>
                               <!-- End Contact Info -->
@@ -109,7 +109,7 @@
                               </div>
                               <!-- End contact Icon -->
                               <div class="contact-info">
-                                 <h3>connect@MLAIcafe.com</h3>
+                                 <h3>digital@zinedu.com</h3>
                                  <p>24/7 online support</p>
                               </div>
                               <!-- End Contact Info -->
@@ -161,9 +161,9 @@
       <div class="container">
          <div class="row">
             <div class="col-lg-2">
-               <!--<a class="navbar-brand tw-nav-brand" href="index.html">-->
-               <!--   <img src="images/logo/logo.png" alt="MLAIcafe">-->
-               <!--</a>-->
+               <a class="navbar-brand tw-nav-brand" href="index.html">
+                  <img src="images/logo/logo.png" alt="ZinEdu">
+               </a>
                <!-- End of Navbar Brand -->
             </div>
             
@@ -184,7 +184,7 @@
                   <!-- End of Navbar toggler -->
                   <div class="collapse navbar-collapse justify-content-center" id="navbarSupportedContent">
                         <ul class="navbar-nav">
-                        <li class="nav-item active" ><a class="nav-link active" href="index.html" >MLAIcafe</a></li>
+                        <li class="nav-item active" ><a class="nav-link active" href="index.html" >ZinEdu Digital</a></li>
                         <li class="nav-item "><a class="nav-link" href="projects.html" >Projects</a></li>
                         <li class="nav-item "><a class="nav-link " href="aboutus.html">About Us</a></li>
                         <li class="nav-item dropdown tw-megamenu-wrapper">
@@ -195,13 +195,13 @@
                                  <div class="col-md-12 col-lg-3 no-padding">
                                           <ul>
                                              <li class="tw-megamenu-title">
-                                                <h3>ARTIFICIAL INTELLIGENCE</h3>
-                                             </li>  <li><a href="seo&internetmarketing.html">Bias-free Model Training</a></li>
-                                             <li><a href="seolinkbuildings.html">Algorithm Explainability & Accuracy</a></li>
-                                             <li><a href="emailmarketing.html">Regulatory Compliance</a></li>
-                                             <li><a href="internetadcampaigning.html">User Buy-In</a></li>
-                                             <li><a href="ppc.html">AI Audit & Reengineering</a></li>
-                                             <li><a href="bulksms.html">AI Expansion</a></li>
+                                                <h3>DIGITAL MARKETING</h3>
+                                             </li>  <li><a href="seo&internetmarketing.html">SEO & Internet Marketing</a></li>
+                                             <li><a href="seolinkbuildings.html">SEO Link Buildings</a></li>
+                                             <li><a href="emailmarketing.html">E-mail Marketing</a></li>
+                                             <li><a href="internetadcampaigning.html">Internet Ad Campaigning</a></li>
+                                             <li><a href="ppc.html">PPC</a></li>
+                                             <li><a href="bulksms.html">Bulk SMS</a></li>
                                           </ul>
                                           <!-- End UL -->
                                  </div>
@@ -209,13 +209,13 @@
                                  <div class="col-md-12 col-lg-3 no-padding">
                                     <ul>
                                        <li class="tw-megamenu-title">
-                                          <h3>BIG DATA Analytics</h3>
+                                          <h3>DEVELOPMENT</h3>
                                        </li>
-                                       <li><a href="webdesigning.html">Use Case Definition</a></li>
-                                       <li><a href="webdevelopment.html">Data Preparation</a></li>
-                                       <li><a href="landingpages.html">ML Model Development</a></li>
-                                       <li><a href="mobileappsdevelopment.html">AI Infrastructure Setup</a></li>
-                                       <li><a href="logodesigning.html">User Training & Support</a></li>
+                                       <li><a href="webdesigning.html">Web Designing</a></li>
+                                       <li><a href="webdevelopment.html">Web Development</a></li>
+                                       <li><a href="landingpages.html">Landing Pages</a></li>
+                                       <li><a href="mobileappsdevelopment.html">Mobile Apps Development</a></li>
+                                       <li><a href="logodesigning.html">Logo Designing</a></li>
                                     </ul>
                                     <!-- End UL -->
                                  </div>
@@ -223,10 +223,10 @@
                                  <div class="col-md-12 col-lg-3 no-padding">
                                     <ul>
                                        <li class="tw-megamenu-title">
-                                          <h3>Why MLAIcafe ?</h3>
+                                          <h3>Why ZinEdu Digital ?</h3>
                                        </li>
                                        <li>
-                                          <p>We conceptualize and implement artificial intelligence for Data Driven Decision Making, Marketing and Sales, Customer Service, Physical & Cybersecurity.</p>
+                                          <p>To drive your idea into Digital World & Excute your Plan Professionally.</p>
                                        </li>
                                     </ul>
                                     <!-- End UL -->
@@ -237,8 +237,8 @@
                            </div>
                            <!-- End of Mega menu -->
                         </li>
-                        
-                        <!--<li class="nav-item"><a class="nav-link" href="blog.html">Blog</a></li>-->
+                        <li class="nav-item"><a class="nav-link" href="career.html">Career</a></li>
+                        <li class="nav-item"><a class="nav-link" href="blog.html">Blog</a></li>
                         <li class="nav-item"><a class="nav-link" href="contact.html">Contact Us</a></li>
                      </ul>
                      <!-- End Navbar Nav -->
@@ -276,10 +276,10 @@
                      <!-- Col end -->
                      <div class="col-md-6">
                         <div class="slider-content">
-                           <h1> <span>Artificial Intelligence </span> Solutions </h1>
-                           <p>Start Adopting AI in your business operations. Be future Ready.
-                              Connect with customer's need via Automation, and increase overall sale over your <b>Services or Products </b></p>
-                           <a href="#" class="btn btn-primary">#Go_AI</a>
+                           <h1>ZinEdu <span>Digital</span> Solution </h1>
+                           <p>Start working with an company that provide everything you need to create business generate awareness, drive traffic,
+                              connect with customer's need, and increase overall sale over your <b>Services or Products </b></p>
+                           <a href="#" class="btn btn-primary">#Go_Digital</a>
                         </div>
                         <!-- End Slider Content -->
                      </div>
@@ -304,12 +304,12 @@
                   <div class="row justify-content-center">
                      <div class="col-md-6">
                         <div class="slider-content">
-                           <h1>Expand your Capabilities with
-                              <span>Augmented Reality</span>
+                           <h1>Web With Marketing, Best in 
+                              <span>SEO</span>
                            </h1>
-                           <p>Let your Customers go through a Perfect blend of Digital and Physical world and have a Fantasy like experience
-                              </p>
-                           <a href="#" class="btn btn-primary">#AR_Experts</a>
+                           <p>Custom SEO Services include Audits, Web Design, Content Marketing, Analytics
+                              connect with customers, and increase sales montes</p>
+                           <a href="#" class="btn btn-primary">#SEO_Experts</a>
                         </div>
                      </div>
                      <!-- Col end -->
@@ -341,11 +341,11 @@
 
                      <div class="col-md-6">
                         <div class="slider-content">
-                           <h1>Big Data  
-                              <span>Analytics.</span> Take Advantage Now! </h1>
-                           <p>Let Enterprise, Sensor Generated, Machine or Social Data <b>make sense in your Business Decisions</b> at lowest budget.
-                             <b></b></p>
-                           <a href="#" class="btn btn-primary">#Free Analysis</a>
+                           <h1>Zinedu Provides Web Packages @ affordable 
+                              <span>Prices</span> Get Now! </h1>
+                           <p>We are here with amazing Student Plans for growing <b>Entrepreneurs</b> at lowest budget can get your custom website 
+                              , go digital and <b>Book your Zinedu digital plan</b></p>
+                           <a href="#" class="btn btn-primary">Free Analysis</a>
                         </div>
                         <!-- End Slider Content -->
                      </div>
@@ -372,14 +372,14 @@
             </div>
             <!-- End Col -->
             <div class="col-lg-5 ml-auto col-md-12 wow fadeInRight" data-wow-duration="1s">
-               <h2 class="column-title">Enhance Productivity 5X, Go AI, It's your time, Yes!</h2>
+               <h2 class="column-title">Put Youself 24*7 Go Digital It's your time, Yes!</h2>
                <span class="animate-border tw-mb-40"></span>
                <p>
-                  There is no boundation to scale, Welcome the business by automation @ Any Size
-                  . 
+                  There is no boundation for our valuable customer, Welcome them by web solution @ anytime & anywhere
+                  , Double your business It's 21th Century, Go Online, taste the success.
                </p>
                <p>
-                  Act Fast! Take advatange before your competition does.
+                  ZinEdu is Here! Get many more features on your website such as Online Registration, Login Credentials, Ecommerce.
                </p>
                <!-- End Intro list -->
                <!-- Default Round Btn -->
@@ -416,10 +416,10 @@
                   </div>
                   <!-- Service icon end -->
                   <div class="service-content">
-                     <h3>First-time AI Adoption</h3>
-                     <p>Adopting new tech early comes with high risk – but might also establish a company as a leader in their field. Put simply, early adoption of new technologies drives better business outcomes.</p>
-                     <a href="#" class="tw-readmore"> <!--Read More-->
-                        <!--<i class="fa fa-angle-right"></i>-->
+                     <h3>SEO Optimization</h3>
+                     <p>To increase the quantity and quality of website traffic we use SEO i.e Search Engine Optimization.</p>
+                     <a href="#" class="tw-readmore">Read More
+                        <i class="fa fa-angle-right"></i>
                      </a>
                   </div>
                   <!-- Service Content end -->
@@ -436,11 +436,11 @@
                   </div>
                   <!-- Service icon end -->
                   <div class="service-content">
-                     <h3>AI Audit & Reengineering</h3>
+                     <h3>Content Marketing</h3>
                      <p>
-Auditing to ensure compliance with regulations, industry standards, best codes and Engineering Elements.</p>
-                     <!--<a href="#" class="tw-readmore">Read More
-                        <i class="fa fa-angle-right"></i> -->
+A marketing form that focuses for a targeted online clients by creating ,publishing and distributing contents.</p>
+                     <a href="#" class="tw-readmore">Read More
+                        <i class="fa fa-angle-right"></i>
                      </a>
                   </div>
                   <!-- Service content end -->
@@ -461,8 +461,8 @@ Auditing to ensure compliance with regulations, industry standards, best codes a
                      <p>
 It deals with how to evaluate a data to get information & aid in business decision making
 by using analytical and statistical tools.</p>
-                     <!--<a href="#" class="tw-readmore">Read More
-                        <i class="fa fa-angle-right"></i>-->
+                     <a href="#" class="tw-readmore">Read More
+                        <i class="fa fa-angle-right"></i>
                      </a>
                   </div>
                   <!-- Service content end -->
@@ -483,10 +483,11 @@ by using analytical and statistical tools.</p>
                   </div>
                   <!-- Service icon end -->
                   <div class="service-content">
-                     <h3>AI Expansion</h3>
-                     <p>We provide a taxonomy of artificial neural networks (ANNs) and furnish  with knowledge and imlementation of current and emerging trends in ANN applications.</p>
-                     <!--<a href="#" class="tw-readmore">Read More
-                        <i class="fa fa-angle-right"></i>-->
+                     <h3>Digital Marketing</h3>
+                     <p>Marketing you product or website is best done by digital marketing.It just helps  by advertising your channels through website,
+social media, mobile apps,search engine etc.</p>
+                     <a href="#" class="tw-readmore">Read More
+                        <i class="fa fa-angle-right"></i>
                      </a>
                   </div>
                   <!-- Service content end -->
@@ -503,11 +504,12 @@ by using analytical and statistical tools.</p>
                   </div>
                   <!-- Service icon end -->
                   <div class="service-content">
-                     <h3>Location Based AR</h3>
+                     <h3>Web Analytics</h3>
                      <p>
-We provide an ideal mapping platform is one which has the interface to provide location-based offerings, rewards and prizes, and messages to your customers.</p>
-                     <!--<a href="#" class="tw-readmore">Read More
-                        <i class="fa fa-angle-right"></i>-->
+It analysis all the behaviour of analysis such as measurement,collection and reporting of data.
+To attract more visitors and to get more customers, web analysis helps it in business.</p>
+                     <a href="#" class="tw-readmore">Read More
+                        <i class="fa fa-angle-right"></i>
                      </a>
                   </div>
                   <!-- Service content end -->
@@ -524,11 +526,12 @@ We provide an ideal mapping platform is one which has the interface to provide l
                   </div>
                   <!-- Service Icon end-->
                   <div class="service-content">
-                     <h3>Marker Based AR</h3>
+                     <h3>Social Marketing</h3>
                      <p>
-We develop application based on  technology that allows to scan the physical “markers & images” and extract a 2D/3D model, videos, animations and audios.</p>
-                     <!--<a href="#" class="tw-readmore">Read More
-                        <i class="fa fa-angle-right"></i>-->
+Product,Price,Place and Promotion the four P's and the key factor of marketing.It basically comprise of the
+advertisement or marketing through social apps such as instagram, facebook, twitter etc.</p>
+                     <a href="#" class="tw-readmore">Read More
+                        <i class="fa fa-angle-right"></i>
                      </a>
                   </div>
                   <!-- Service Content end -->
@@ -574,14 +577,14 @@ We develop application based on  technology that allows to scan the physical “
                      <div class="post-info">
                         <div class="post-meta">
                            <span class="post-author">
-                                 Posted by <a href="">Ayush</a>
+                                 Posted by <a href="">Admin</a>
                               </span>
                         </div>
                         <!-- End Post Meta -->
-                        <h3 class="post-title"><a href="#">AI in SEO </a></h3>
+                        <h3 class="post-title"><a href="#">SEO trend to look for the best in 2018</a></h3>
                         <div class="entry-content">
                            <p>
-                              Your favorite search engine relies on artificial intelligence to provide relevant results for your queries. Search engines use sophisticated AI, machine learning, and deep learning to process searches, then predict which results will satisfy any given search.
+                              One of the top 100 advertising of a marketing agencies know that how to grow your busines
                            </p>
                         </div>
                         <!-- End Entry Content -->
@@ -602,22 +605,23 @@ We develop application based on  technology that allows to scan the physical “
                   <div class="post-body">
                      <div class="post-item-date">
                         <div class="post-date">
-                           <span class="date">5</span>
-                           <span class="month">Jun</span>
+                           <span class="date">29</span>
+                           <span class="month">May</span>
                         </div>
                      </div>
                      <!-- End Post Item Date -->
                      <div class="post-info">
                         <div class="post-meta">
                            <span class="post-author">
-                                 Posted by <a href="">Irina</a>
+                                 Posted by <a href="">Ayush</a>
                               </span>
                         </div>
                         <!-- End Post Meta -->
-                        <h3 class="post-title"><a href="#">Data Driven E-Commerce</a></h3>
+                        <h3 class="post-title"><a href="#">Business Mind Track</a></h3>
                         <div class="entry-content">
                            <p>
-                              Data powers the majority of business operations and serves as a source of valuable insights on your shoppers' behavior. If you wish to raise your conversions and boost customers' engagement, think about implementing a data-driven marketing strategy for your ecommerce store.
+                              Our Customers are searching here and we are still asking for business idea! It's Easy
+                               go digital.
                            </p>
                         </div>
                         <!-- End Entry Content -->
@@ -638,7 +642,7 @@ We develop application based on  technology that allows to scan the physical “
                   <div class="post-body">
                      <div class="post-item-date">
                         <div class="post-date">
-                           <span class="date">7</span>
+                           <span class="date">07</span>
                            <span class="month">Sept</span>
                         </div>
                      </div>
@@ -646,14 +650,14 @@ We develop application based on  technology that allows to scan the physical “
                      <div class="post-info">
                         <div class="post-meta">
                            <span class="post-author">
-                                 Posted by <a href="">Ryan</a>
+                                 Posted by <a href="">ZinEdu Digital</a>
                               </span>
                         </div>
                         <!-- End Post Meta -->
-                        <h3 class="post-title"><a href="#">Cloud Computing 2.0 </a></h3>
+                        <h3 class="post-title"><a href="#">Want to have a professional Blog </a></h3>
                         <div class="entry-content">
                            <p>
-                              Cloud computing was perhaps the most smoking point in innovation and business media all through 2019. This is nothing unexpected as the cloud segment has been developing quickly throughout the last few years. Synergy Research Group recently detailed a 37% by and large development year-over-year in the public cloud.
+                              Web Blog doesn't only define posts and informal texts in diary form it is actually the thing that makes your passion products.
                            </p>
                         </div>
                         <!-- End Entry Content -->
@@ -758,7 +762,7 @@ We develop application based on  technology that allows to scan the physical “
                      <img src="images/footer_logo.png" alt="footer_logo" class="img-fluid">
                   </a>
                   <p class="footer-info-text">
-                        MLAIcafe is a Noida based company that deals with ML , AI and AR.
+                        Zinedu Digital is a Delhi based company that deals with Web Development and Designing.
                   </p>
                   <div class="footer-social-link">
                      <h3>Follow us</h3>
@@ -775,7 +779,7 @@ We develop application based on  technology that allows to scan the physical “
                <!-- End Footer info -->
                <div class="footer-awarad">
                   <img src="images/icon/best.png" alt="">
-                  <p>MLAIcafe Go_AI </p>
+                  <p>ZinEdu Digital Go_Online </p>
                </div>
             </div>
             <!-- End Col -->
@@ -803,7 +807,7 @@ We develop application based on  technology that allows to scan the physical “
                         </div>
                         <!-- End contact Icon -->
                         <div class="contact-info">
-                           <h3>+91-7669992203</h3>
+                           <h3>+91-9108674519</h3>
                            <p>Give us a call</p>
                         </div>
                         <!-- End Contact Info -->
@@ -828,7 +832,7 @@ We develop application based on  technology that allows to scan the physical “
                         <ul>
                            <li><a href="contact.html">Contact us</a></li>
                            <li><a href="blog.html">Blog</a></li>
-                           <li><a href="faq.html">FAQ</a></li>
+                           <li><a href="faq.html">Faq</a></li>
                         </ul>
                      </div>
                      <!-- End Footer Widget -->
@@ -868,7 +872,7 @@ We develop application based on  technology that allows to scan the physical “
          <div class="container">
             <div class="row">
                <div class="col-md-6">
-                  <span>Copyright &copy; 2019, All Right Reserved MLAIcafe Digital</span>
+                  <span>Copyright &copy; 2019, All Right Reserved ZinEdu Digital</span>
                </div>
                <!-- End Col -->
                <div class="col-md-6">
